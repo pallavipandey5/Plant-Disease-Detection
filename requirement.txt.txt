@@ -1,0 +1,9 @@
+torch==1.9.0+cu111 #PyTorch is installed with CUDA support
+torchvision==0.10.0+cu111 
+opencv-python==4.5.3.56
+pycocotools==2.0.2
+tqdm==4.62.3
+matplotlib==3.4.3
+yacs==0.1.8
+fvcore==0.1.5.post20210812
+detectron2==0.5
